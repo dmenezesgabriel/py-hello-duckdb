@@ -6,3 +6,5 @@ matplotlib==3.8.0
 # https://github.com/duckdb/duckdb/issues/8802
 pandas==2.0.3
 jupyterlab-git==0.42.0
+jupysql-plugin==0.2.1
+pyarrow==13.0.0
