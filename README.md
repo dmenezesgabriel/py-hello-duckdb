@@ -1,0 +1,5 @@
+# Python DuckDB
+
+## Requirements
+
+- Python
